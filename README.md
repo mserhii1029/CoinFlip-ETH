@@ -1,4 +1,4 @@
-# CoinFlip ETH Game by Adrian Delgado 👨‍💻
+# CoinFlip ETH Game by Serhii Muzyka 👨‍💻
 
 🎮 Demo App: <https://coinflip-eth.vercel.app/>
 
