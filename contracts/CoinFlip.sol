@@ -5,7 +5,7 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 
 /**
  * @title Ethereum CoinFlipping Multiplayer Betting Game
- * @author Adrian Delgado - https://github.com/adriandelgg
+ * @author Serhii Muzyka - https://github.com/mserhii1029
  * @dev Use transferFrom() to withdraw your earnings.
  * Best if used with Hardhat local network, but the easiest
  * way to try it is by using the Rinkeby test net.

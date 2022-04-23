@@ -19,7 +19,7 @@ export default function Home() {
             <Image src='/metamask.svg' width={200} height={200} />
             <p className='mt-6'>
               To use this dApp, switch your network to Rinkeby, or go to{' '}
-              <a className='text-blue-400 underline' href='https://github.com/adriandelgg/CoinFlip.eth' target='_blank'>
+              <a className='text-blue-400 underline' href='https://github.com/mserhii1029/CoinFlip-ETH' target='_blank'>
                 Github Source Code
               </a>{' '}
               and see the instructions on how to run on the Hardhat local network.
